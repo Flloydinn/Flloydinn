@@ -22,9 +22,10 @@
 - 🕹️ Desenvolvo e exploro projetos de jogos (confira meu Itch.io!).
 - 📍 Baseado em Santos, SP.
 
+<!--
 ---
 
-<!-- ## 🛠️ Tecnologias e Ferramentas
+## 🛠️ Tecnologias e Ferramentas
 
 Aqui estão algumas das tecnologias que utilizo nos meus projetos:
 
