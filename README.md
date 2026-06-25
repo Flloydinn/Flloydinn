@@ -15,27 +15,12 @@
 
 ---
 
-## 🚀 Sobre Mim
+## 🚀 Sobre Meus Projetos e Conteúdo
 
 - 💻 Atualmente atuando como **Desenvolvedor**.
 - 🎥 Crio conteúdo sobre programação, tecnologia e jogos no **YouTube** e **Twitch**.
 - 🕹️ Desenvolvo e exploro projetos de jogos (confira meu Itch.io!).
 - 📍 Baseado em Santos, SP.
-
-<!--
----
-
-## 🛠️ Tecnologias e Ferramentas
-
-Aqui estão algumas das tecnologias que utilizo nos meus projetos:
-
-<div style="display: inline">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-</div> -->
 
 ---
 
@@ -43,16 +28,22 @@ Aqui estão algumas das tecnologias que utilizo nos meus projetos:
 
 Se inscreva no canal e me acompanhe ao vivo nas streams:
 
-<div style="display: inline"> 
+<div style="display: inline-block"> 
   <!-- Youtube -->
   <a href="https://www.youtube.com/channel/UCvwqrxvKnj1tG2SbWOqvEPA" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube">
   </a>
   <!-- Twitch -->
   <a href="https://www.twitch.tv/adrianojosez" target="_blank">
-    <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white">
+    <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" alt="Twitch">
   </a>
 </div>
+
+### 🎥 Últimos Vídeos do Canal
+<!-- Se quiser automatizar isso depois com GitHub Actions, essa seção já está pronta para receber o feed -->
+<!-- youtube-videos-start -->
+- [Confira os conteúdos mais recentes direto no meu canal do YouTube!](https://www.youtube.com/channel/UCvwqrxvKnj1tG2SbWOqvEPA)
+<!-- youtube-videos-end -->
 
 ---
 
@@ -60,30 +51,34 @@ Se inscreva no canal e me acompanhe ao vivo nas streams:
 
 Conecte-se comigo nas plataformas de jogos:
 
-<div style="display: inline"> 
+<div style="display: inline-block"> 
   <!-- Playstation -->
   <a href="#" target="_blank">
-    <img src="https://img.shields.io/badge/PlayStation-003791?style=for-the-badge&logo=playstation&logoColor=white">
+    <img src="https://img.shields.io/badge/PlayStation-003791?style=for-the-badge&logo=playstation&logoColor=white" alt="PlayStation">
   </a>
   <!-- Xbox -->
   <a href="https://account.xbox.com/pt-BR/Profile?xr=mebarnav" target="_blank">
-    <img src="https://img.shields.io/badge/Xbox-107C10?style=for-the-badge&logo=xbox&logoColor=white">
+    <img src="https://img.shields.io/badge/Xbox-107C10?style=for-the-badge&logo=xbox&logoColor=white" alt="Xbox">
   </a>
   <!-- Steam -->
   <a href="https://steamcommunity.com/id/Flloydinn/" target="_blank">
-    <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white">
+    <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" alt="Steam">
   </a>
   <!-- Itch.io -->
   <a href="https://adrianojose.itch.io/" target="_blank">
-    <img src="https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itch.io&logoColor=white">
+    <img src="https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itch.io&logoColor=white" alt="Itch.io">
   </a>
 </div>
 
 ---
 
-## 📊 Estatísticas do GitHub
+## 📊 Estatísticas de Código
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Flloydinn&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Flloydinn GitHub Stats" height="150">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Flloydinn&layout=compact&theme=dark" alt="Top Langs" height="150">
+  <img src="https://github-readme-stats.vercel.app/api?username=Flloydinn&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Flloydinn GitHub Stats" height="160">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Flloydinn&layout=compact&theme=dark" alt="Top Langs" height="160">
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Flloydinn&theme=dark" alt="Flloydinn Streak Stats" height="160">
 </p>
